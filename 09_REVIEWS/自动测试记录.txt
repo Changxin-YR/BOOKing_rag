@@ -1,0 +1,55 @@
+test_accept_and_resume (test_workflow.WorkflowTests.test_accept_and_resume) ... ok
+test_approval_tamper (test_workflow.WorkflowTests.test_approval_tamper) ... ok
+test_archive_tamper (test_workflow.WorkflowTests.test_archive_tamper) ... ok
+test_baseline_tamper (test_workflow.WorkflowTests.test_baseline_tamper) ... ok
+test_blank_reason (test_workflow.WorkflowTests.test_blank_reason) ... ok
+test_bool_not_integer (test_workflow.WorkflowTests.test_bool_not_integer) ... ok
+test_canon_name_conflict (test_workflow.WorkflowTests.test_canon_name_conflict) ... ok
+test_concurrent_lock (test_workflow.WorkflowTests.test_concurrent_lock) ... ok
+test_context_includes_related_clue (test_workflow.WorkflowTests.test_context_includes_related_clue) ... ok
+test_context_pages_preserve_full_text (test_workflow.WorkflowTests.test_context_pages_preserve_full_text) ... ok
+test_copy_time_memory_change (test_workflow.WorkflowTests.test_copy_time_memory_change) ... ok
+test_core_dimension_floor (test_workflow.WorkflowTests.test_core_dimension_floor) ... ok
+test_cross_collection_duplicate (test_workflow.WorkflowTests.test_cross_collection_duplicate) ... ok
+test_dangling_world_canon (test_workflow.WorkflowTests.test_dangling_world_canon) ... ok
+test_duplicate_accept (test_workflow.WorkflowTests.test_duplicate_accept) ... ok
+test_duplicate_historical_event (test_workflow.WorkflowTests.test_duplicate_historical_event) ... ok
+test_duplicate_json_keys (test_workflow.WorkflowTests.test_duplicate_json_keys) ... ok
+test_early_reveal (test_workflow.WorkflowTests.test_early_reveal) ... ok
+test_empty_structural_brief (test_workflow.WorkflowTests.test_empty_structural_brief) ... ok
+test_failed_check_no_archive (test_workflow.WorkflowTests.test_failed_check_no_archive) ... ok
+test_false_quote (test_workflow.WorkflowTests.test_false_quote) ... ok
+test_false_score_quote (test_workflow.WorkflowTests.test_false_score_quote) ... ok
+test_future_reference_date (test_workflow.WorkflowTests.test_future_reference_date) ... ok
+test_hard_check_cannot_be_na (test_workflow.WorkflowTests.test_hard_check_cannot_be_na) ... ok
+test_historical_craft_cache_allowed (test_workflow.WorkflowTests.test_historical_craft_cache_allowed) ... ok
+test_history_is_chapter_local (test_workflow.WorkflowTests.test_history_is_chapter_local) ... ok
+test_knowledge_acquisition_required (test_workflow.WorkflowTests.test_knowledge_acquisition_required) ... ok
+test_last_chapter_deletion (test_workflow.WorkflowTests.test_last_chapter_deletion) ... ok
+test_manifest_chain (test_workflow.WorkflowTests.test_manifest_chain) ... ok
+test_new_state_requires_event (test_workflow.WorkflowTests.test_new_state_requires_event) ... ok
+test_no_silent_state_deletion (test_workflow.WorkflowTests.test_no_silent_state_deletion) ... ok
+test_nonexistent_item_owner (test_workflow.WorkflowTests.test_nonexistent_item_owner) ... ok
+test_open_p1_even_high_score (test_workflow.WorkflowTests.test_open_p1_even_high_score) ... ok
+test_p2_allowed_and_retained (test_workflow.WorkflowTests.test_p2_allowed_and_retained) ... ok
+test_prepare_review_resets_passes (test_workflow.WorkflowTests.test_prepare_review_resets_passes) ... ok
+test_recover_after_rename_before_head (test_workflow.WorkflowTests.test_recover_after_rename_before_head) ... ok
+test_recover_before_rename (test_workflow.WorkflowTests.test_recover_before_rename) ... ok
+test_recover_checks_approval_before_publishing (test_workflow.WorkflowTests.test_recover_checks_approval_before_publishing) ... ok
+test_recover_rejects_damaged_candidate (test_workflow.WorkflowTests.test_recover_rejects_damaged_candidate) ... ok
+test_rule_requires_same_day (test_workflow.WorkflowTests.test_rule_requires_same_day) ... ok
+test_search_index_invalidation (test_workflow.WorkflowTests.test_search_index_invalidation) ... ok
+test_search_old_event_and_pagination (test_workflow.WorkflowTests.test_search_old_event_and_pagination) ... ok
+test_stale_draft_review (test_workflow.WorkflowTests.test_stale_draft_review) ... ok
+test_stale_memory_review (test_workflow.WorkflowTests.test_stale_memory_review) ... ok
+test_stale_planning_review (test_workflow.WorkflowTests.test_stale_planning_review) ... ok
+test_stale_reference_review (test_workflow.WorkflowTests.test_stale_reference_review) ... ok
+test_stale_style_feedback (test_workflow.WorkflowTests.test_stale_style_feedback) ... ok
+test_status_ignores_archived_work (test_workflow.WorkflowTests.test_status_ignores_archived_work) ... ok
+test_total_score_floor (test_workflow.WorkflowTests.test_total_score_floor) ... ok
+test_unverified_source (test_workflow.WorkflowTests.test_unverified_source) ... ok
+
+----------------------------------------------------------------------
+Ran 50 tests in 1.122s
+
+OK

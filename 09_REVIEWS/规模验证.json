@@ -1,0 +1,11 @@
+{
+  "simulated_chapters": 60,
+  "verified_chapters": 60,
+  "stored_events": 60,
+  "v1_0_repeated_snapshot_event_records_at_same_scale": 1830,
+  "latest_memory_events": 1,
+  "chapter1_event_retrievable": true,
+  "full_verify_seconds": 0.059,
+  "elapsed_seconds": 9.477,
+  "notes": "合成软件数据，非文学品质或百万字压力测试；耗时仅当前运行环境参考"
+}

@@ -1,0 +1,144 @@
+{
+  "binding": null,
+  "review_mode": "self_review",
+  "rounds": {
+    "literary": {
+      "passed": false,
+      "quote": "",
+      "reason": ""
+    },
+    "commercial": {
+      "passed": false,
+      "quote": "",
+      "reason": ""
+    },
+    "continuity": {
+      "passed": false,
+      "quote": "",
+      "reason": ""
+    },
+    "reader": {
+      "passed": false,
+      "quote": "",
+      "reason": ""
+    }
+  },
+  "checks": {
+    "canon": {
+      "status": "pending",
+      "quote": "",
+      "reason": ""
+    },
+    "timeline": {
+      "status": "pending",
+      "quote": "",
+      "reason": ""
+    },
+    "knowledge": {
+      "status": "pending",
+      "quote": "",
+      "reason": ""
+    },
+    "resources": {
+      "status": "pending",
+      "quote": "",
+      "reason": ""
+    },
+    "foreshadow": {
+      "status": "pending",
+      "quote": "",
+      "reason": ""
+    },
+    "memory_coverage": {
+      "status": "pending",
+      "quote": "",
+      "reason": ""
+    },
+    "viewpoint": {
+      "status": "pending",
+      "quote": "",
+      "reason": ""
+    },
+    "originality": {
+      "status": "pending",
+      "quote": "",
+      "reason": ""
+    },
+    "promise": {
+      "status": "pending",
+      "quote": "",
+      "reason": ""
+    },
+    "culture": {
+      "status": "pending",
+      "quote": "",
+      "reason": ""
+    }
+  },
+  "scores": {
+    "因果": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    },
+    "动机": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    },
+    "人物差异": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    },
+    "节奏": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    },
+    "信息": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    },
+    "情绪": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    },
+    "文笔": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    },
+    "对话": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    },
+    "章尾": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    },
+    "中国语境": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    },
+    "一致性": {
+      "score": 0,
+      "quote": "",
+      "reason": ""
+    }
+  },
+  "issues": [],
+  "blockers": [
+    "尚未审稿"
+  ],
+  "weakest_scene": {
+    "quote": "",
+    "reason": ""
+  },
+  "residual_risks": []
+}

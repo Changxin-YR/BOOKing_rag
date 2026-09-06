@@ -1,0 +1,20 @@
+{
+  "chapter": 1,
+  "day": 0,
+  "goal": "",
+  "stakes": "",
+  "change": "",
+  "viewpoint": "",
+  "ending": "",
+  "entity_ids": [],
+  "new_entity_ids": [],
+  "forbidden_info": [],
+  "scenes": [
+    {
+      "goal": "",
+      "obstacle": "",
+      "choice": "",
+      "change": ""
+    }
+  ]
+}

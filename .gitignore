@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.writer.lock
+07_MEMORY/search.sqlite
+07_MEMORY/*.sqlite-*
+07_MEMORY/transaction.json
+06_CHAPTERS/.stage-*/
+work/*/context-pages/
+work/*/context-index.json
+work/*/context.md
